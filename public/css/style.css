@@ -1,0 +1,17 @@
+.navbar-brand {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.card {
+    padding: 30px;
+}
+
+#create {
+    padding: 40px;
+    margin: 50px 430px;
+}
+
+.display-5 {
+    text-align: center;
+}
